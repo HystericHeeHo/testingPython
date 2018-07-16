@@ -1,5 +1,5 @@
 def parrot():
     polly = input('Speak to the parrot: ')
-    result = polly.capitalize() 
+    result = polly.upper() 
     return print(result)
 parrot()
