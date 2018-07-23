@@ -1,8 +1,2 @@
-fruit = list('Strawberry')
-print(fruit)
-fruit = ['Strawberry', 'Banana', 'Apple']
-print(fruit)
-fruit.append('Peach')
-print(fruit)
-fruit.append('Pear')
-print(fruit)
+favmusic = ['Coheed and Cambria', 'Kendrick Lamar', 'Nujabes', 'J Cole', ' Wu Tang Clan', 'Childish Gambino']
+print(favmusic)
