@@ -1,3 +1,3 @@
 def cubing(x):    
-    cubed = int(x) ** 3
-    print(cubed) 
+    x_cubed = int(x) ** 3
+    print(x_cubed) 
