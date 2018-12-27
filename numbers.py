@@ -11,7 +11,7 @@ elif int(userNumber) == 23:
 elif int(userNumber) < 25:
     print("You're like almost a real adult")
 elif int(userNumber) >= 10:
-    Print("You've still got a ways to go kid.")
+    print("You've still got a ways to go kid.")
 elif int(userNumber) < 10:
     print("Are you even old enough to know how to take this?")
 else:
